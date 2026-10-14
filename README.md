@@ -1,4 +1,5 @@
 # frontend-project
 html
 css
-js   .
+js   ;
+.
